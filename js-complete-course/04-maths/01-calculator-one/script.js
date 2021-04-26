@@ -14,17 +14,38 @@
 
     document.getElementById("addition").addEventListener("click", function() {
         // perform an addition
+        let opone = document.getElementById("op-one").value;
+        let optwo = document.getElementById("op-two").value;
+
+        alert(Number(opone) + Number(optwo));
+
     });
 
     document.getElementById("substraction").addEventListener("click", function() {
         // perform an substraction
+        let opone = document.getElementById("op-one").value;
+        let optwo = document.getElementById("op-two").value;
+
+        alert(Number(opone) - Number(optwo));
+
     });
 
     document.getElementById("multiplication").addEventListener("click", function() {
         // perform an multiplication
+        let opone = document.getElementById("op-one").value;
+        let optwo = document.getElementById("op-two").value;
+
+        alert(Number(opone) * Number(optwo));
+
+
     });
 
     document.getElementById("division").addEventListener("click", function() {
         // perform an division
+        let opone = document.getElementById("op-one").value;
+        let optwo = document.getElementById("op-two").value;
+
+        alert(Number(opone) / Number(optwo));
+
     });
 })();

@@ -9,8 +9,21 @@
 // NOTE: don't focus on the existing code structure for now.
 // You will have time to focus on it later.
 
-(function() {
+(function response() {
 
-    // your code here
+alert ("Ready to give your info?")
+var age,gender, city;
+age = prompt("What's your age?");
+gender = prompt("What is gender?");
+city = prompt("Which city do you live in?");
 
-})();
+
+var result = confirm(`Your responses :
+age : ${age}
+gender: ${gender}
+city  : ${city}
+Click OK to accept`);
+if (result !== true){
+    response();
+}
+ })();

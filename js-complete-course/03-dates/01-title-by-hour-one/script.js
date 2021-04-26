@@ -10,9 +10,17 @@
 // You will have time to focus on it later.
 
 (function() {
+var myDate = new Date();
+var hrs = myDate.getHours();
 
-    // to change the content of a tag: document.getElementById("element-id").innerHTML = "new-value"
+var Greetings;
 
-    // your code here
-
+if (hrs <= 18){
+    Greetings = 'Hello';
+}
+else {
+    Greetings= 'Good evening'
+    }
+     document.getElementById('target').innerHTML= Greetings
 })();
+
