@@ -91,4 +91,9 @@
 
     // your code here
 
+    document.getElementById("run").addEventListener("click", function () {
+        const filterAge18 = (person) => person.age > 18;
+        const filteredList = people.filter(filterAge18);
+        console.table(filteredList);
+    });
 })();

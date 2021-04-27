@@ -28,4 +28,14 @@
 
     // your code here
 
+    document.getElementById("run").addEventListener("click",  () => {
+        const app1 = fruits.includes( "apple");
+
+        if (app1 === true){
+            console.log ("yes");
+        }
+        else{
+            console.log("no")
+        };
+    });
 })();

@@ -89,6 +89,13 @@
         },
     ];
 
-    // your code here
+// your code here
+    document.getElementById("run").addEventListener("click",  () => {
+        let initialValue = 0
+        let sum = people.reduce(
+            (accumulator, currentValue) => accumulator + currentValue.age, initialValue);
+        console.log(sum);
+    });
+
 
 })();

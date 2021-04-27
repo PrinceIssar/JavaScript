@@ -9,8 +9,7 @@
 // NOTE: don't focus on the existing code structure for now.
 // You will have time to focus on it later.
 
-(function() {
-
+(function () {
     var fruits = [
         "apple",
         "pear",
@@ -26,12 +25,9 @@
         "cherry",
     ];
 
-    console.log (fullname.toUpperCase());
-
-    console.log (fullname.toLowerCase());
-    // your code here
-
     document.getElementById("run").addEventListener("click", function () {
-        console.log();
+        for (i = 0; i < fruits.length; i++) {
+            console.log(fruits[i]);
+        }
     });
 })();
