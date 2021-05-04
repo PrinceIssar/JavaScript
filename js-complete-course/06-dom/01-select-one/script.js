@@ -11,6 +11,10 @@
 
 (function() {
 
-    // your code here
+    target.innerHTML=''; // if you don't add this line the page will have the original text + what you add. Basically it'll remove the original text.
+    target.appendChild(document.createTextNode("Owned")); // with this you'll have the NEW text.
 
 })();
+
+
+

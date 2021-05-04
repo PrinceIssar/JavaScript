@@ -9,8 +9,12 @@
 // NOTE: don't focus on the existing code structure for now.
 // You will have time to focus on it later.
 
-(function() {
+    function setNewImage(){
+          document.getElementById("img1").src = "../../_shared/img/kiss-wink-heart.svg";
+    }
 
-    // your code here
+    function setOldImage(){
+        document.getElementById("img1").src = "../../_shared/img/kiss.svg";
+    }
 
-})();
+

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d72087ce-c265-4039-9a91-cd5af595fbba" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/js-complete-course/06-dom/01-select-one/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/js-complete-course/06-dom/01-select-one/script.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js-complete-course/06-dom/02-select-two/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/js-complete-course/06-dom/02-select-two/script.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js-complete-course/06-dom/03-select-three/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/js-complete-course/06-dom/03-select-three/script.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js-complete-course/06-dom/04-attr-create/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/js-complete-course/06-dom/04-attr-create/script.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js-complete-course/06-dom/05-hover-image/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/js-complete-course/06-dom/05-hover-image/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js-complete-course/06-dom/05-hover-image/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/js-complete-course/06-dom/05-hover-image/script.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js-complete-course/06-dom/06-generate-table-one/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/js-complete-course/06-dom/06-generate-table-one/script.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js-complete-course/06-dom/08-match-password-one/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/js-complete-course/06-dom/08-match-password-one/script.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js-complete-course/06-dom/10-change-event-input-one/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/js-complete-course/06-dom/10-change-event-input-one/script.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1s1g20Qs1KJuvulPzgYfR4eWtHq" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d72087ce-c265-4039-9a91-cd5af595fbba" name="Default Changelist" comment="" />
+      <created>1620045298542</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1620045298542</updated>
+      <workItem from="1620045299814" duration="4402000" />
+      <workItem from="1620050631556" duration="3096000" />
+      <workItem from="1620108296987" duration="728000" />
+      <workItem from="1620111560894" duration="11806000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

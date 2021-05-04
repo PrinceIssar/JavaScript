@@ -9,8 +9,26 @@
 // NOTE: don't focus on the existing code structure for now.
 // You will have time to focus on it later.
 
+
 (function() {
 
     // your code here
+    const target = document.getElementById('target');
+    const table = document.createElement('table');
+
+    table.setAttribute('border', '1');
+
+    for (let i = 0; i < 10; i++) {
+        let tr = document.createElement('tr');
+        for (let r = 0; r < 1; r++) {
+            let td = document.createElement('td');
+            tr.appendChild(td);
+            td.innerHTML = 'row';
+        }
+        table.appendChild(tr);
+    }
+
+    target.appendChild(table);
+
 
 })();

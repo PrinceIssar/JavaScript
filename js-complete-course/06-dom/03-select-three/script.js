@@ -9,8 +9,16 @@
 // NOTE: don't focus on the existing code structure for now.
 // You will have time to focus on it later.
 
-(function() {
+(function () {
 
     // your code here
+    var queryAll = document.querySelectorAll(".target");
+    queryAll.forEach((element) => {
+        element.textContent = "Owned";
+    })
 
+    // queryAll.forEach(function (x){  // function  with parameter x will replace every P
+    //     x.textContent= "Owned";
+    // })
 })();
+
