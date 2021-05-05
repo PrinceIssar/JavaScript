@@ -10,5 +10,18 @@
 // You will have time to focus on it later.
 
 (() => {
+
+    document.getElementById("run").addEventListener("click",function (){
+
+
     // your code here
+    fetch("http://localhost:8000/_shared/api.json")
+        .then(data => {
+         return data.json();
+    }).then(data2 => {
+        console.log(data2);
+    })
+
+    });
+
 })();
