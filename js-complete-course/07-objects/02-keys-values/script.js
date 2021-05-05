@@ -10,6 +10,8 @@
 // You will have time to focus on it later.
 
 (() => {
+    document.getElementById("run").addEventListener("click", function () {
+
     const person = {
         lastname: "Delnatte",
         firstname: "Pierre-Antoine",
@@ -18,5 +20,10 @@
         city: "Liège",
         status: "married",
     };
+
     // your code here
+        console.log(Object.keys(person));
+        console.log(Object.values(person));
+        //console.log(Object.entries(person)); it'll print a nested arrays.
+    });
 })();
