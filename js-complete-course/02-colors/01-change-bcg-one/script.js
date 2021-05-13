@@ -38,8 +38,8 @@
 
     let red = document.querySelector('#red')
 
-    red.addEventListener("click", changered);
-    function changered(){
+    red.addEventListener("click", changeColor);
+    function changeColor(){
         page.style.backgroundColor= 'red';
     }
 
@@ -51,8 +51,8 @@
 
     let green = document.querySelector('#green')
 
-    green.addEventListener("click", changered);
-    function changered(){
+    green.addEventListener("click", changeColor);
+    function changeColor(){
         page.style.backgroundColor= 'green';
     }
 
@@ -64,8 +64,8 @@
 
     let yellow = document.querySelector('#yellow')
 
-    yellow.addEventListener("click", changered);
-    function changered(){
+    yellow.addEventListener("click", changeColor);
+    function changeColor(){
         page.style.backgroundColor= 'yellow';
     }
 
@@ -77,8 +77,8 @@
 
     let blue = document.querySelector('#blue')
 
-    blue.addEventListener("click", changered);
-    function changered(){
+    blue.addEventListener("click", changeColor);
+    function changeColor(){
         page.style.backgroundColor= 'blue';
     }
 

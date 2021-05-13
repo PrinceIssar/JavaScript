@@ -24,6 +24,6 @@
     // your code here
         console.log(Object.keys(person));
         console.log(Object.values(person));
-        //console.log(Object.entries(person)); it'll print a nested arrays.
+        console.log(Object.entries(person));
     });
 })();
